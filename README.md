@@ -45,7 +45,7 @@ It's a number guessing game built with Streamlit where you try to guess a secret
 - Added a bounds check after parsing the guess to reject anything outside the valid range for the current difficulty
 - Added `st.session_state.status = "playing"` to the new game handler so the game actually resets properly after a win or loss
 - Replaced the hardcoded `random.randint(1, 100)` in the new game handler with `random.randint(low, high)` so difficulty is respected
-- Swapped the hint messages in `check_guess` so Too High says Go LOWER and Too Low says Go HIGHER
+- Swapped the hint messages in `check_guess` so Too High says Go LOWER and Too Low says Go HIGHER. 
 
 ## 📸 Demo
 
