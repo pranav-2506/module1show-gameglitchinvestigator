@@ -50,7 +50,3 @@ It's a number guessing game built with Streamlit where you try to guess a secret
 ## 📸 Demo
 
 - ![alt text](image-1.png)
-
-## 🚀 Stretch Features
-
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
